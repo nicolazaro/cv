@@ -4,11 +4,11 @@ Docente. Investigador.
 
 ## Publicaciones et al.
 ### 2023
-1.	“La descripción del hombre en el capítulo CLII del De naturis rerum libri duo de Alexander Neckam. Oriente-Occidente. Segunda Época, 19/20 (en prensa).
-2.	“La investigación Educativa y Social en Latinoamérica”, organizador y coordinador para la Argentina en el Congreso Internacional de Educación, 24, 25 y 26 de mayo, Cartagena de Indias, Colombia.
+1.	[La descripción del hombre en el capítulo CLII del De naturis rerum libri duo, de Alexander Neckam]((https://p3.usal.edu.ar/index.php/oriente-occidente/article/view/6535)). En Oriente Y Occidente, 18(2/2).
+2.	[La investigación Educativa y Social en Latinoamérica”](https://fundacioncolombiacaribe.org/wp-content/uploads/2023/04/BROCHOURE-CONGRESO-DE-EDUCACION-VERSION-FINAL1.pdf), organizador y coordinador para la Argentina en el Congreso Internacional de Educación, 24, 25 y 26 de mayo, Cartagena de Indias, Colombia.
 3.	“Historia y Filosofía en la ‘Edad Media’. Notas y reflexiones para una reivindicación del término”. En Omnis summa philosophiae ad beate vivendum refertur. Homenaje póstumo a Silvana Filippi. C. Muñoz Medina y J. M. F. Mendoza (Eds.), R. A. Peretó Rivas, Mendoza, 2023, pp. 29-44.
-4.	“Humanidades Digitales, ¿por dónde empezar? Un programa y una propuesta de Argentina”. Expositor en la “II #SemanaHD”, del 8 al 12 de mayo de 2023, coorganizado por la Asociación Argentina de Humanidades Digitales (AAHD, Argentina), la Red Colombiana de Humanidades Digitales (RCHD, Colombia) y la Red de Humanidades Digitales (RHD, México). https://youtube/PvdbMgBmnLU.
-5.	“Giustizia: fra analogia e univocità. Da Tommaso d’Aquino a Tommaso di Vio”. Doctor Virtualis n. 18: Analogia e medioevo, pp. 305-320, ISSN 2035-7362, DOI: 10.54103/2035-7362/19484.
+4.	[Humanidades Digitales, ¿por dónde empezar? Un programa y una propuesta de Argentina](https://youtube/PvdbMgBmnLU). Expositor en la “II #SemanaHD”, del 8 al 12 de mayo de 2023, coorganizado por la Asociación Argentina de Humanidades Digitales (AAHD, Argentina), la Red Colombiana de Humanidades Digitales (RCHD, Colombia) y la Red de Humanidades Digitales (RHD, México).
+5.	[Giustizia: fra analogia e univocità. Da Tommaso d’Aquino a Tommaso di Vio](https://riviste.unimi.it/index.php/DoctorVirtualis/article/view/19484). Doctor Virtualis n. 18: Analogia e medioevo, pp. 305-320, ISSN 2035-7362, DOI: 10.54103/2035-7362/19484.
 
 ### 2022
 6.	“La descripción del hombre en el capítulo CLII del De naturis rerum libri duo de Alexander Neckam”. Expositor en las I Jornadas Internacionales “Siglo XII. Convergencias de mundos”, 1 a 3 de junio de 2022, USAL, CABA, Argentina.
