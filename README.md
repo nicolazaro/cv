@@ -4,7 +4,7 @@ Docente. Investigador.
 
 ## Publicaciones et al.
 ### 2023
-1.	[La descripción del hombre en el capítulo CLII del De naturis rerum libri duo, de Alexander Neckam]((https://p3.usal.edu.ar/index.php/oriente-occidente/article/view/6535). En Oriente Y Occidente, 18(2/2).
+1.	[La descripción del hombre en el capítulo CLII del De naturis rerum libri duo, de Alexander Neckam](https://p3.usal.edu.ar/index.php/oriente-occidente/article/view/6535). En Oriente Y Occidente, 18(2/2).
 2.	[La investigación Educativa y Social en Latinoamérica”](https://fundacioncolombiacaribe.org/wp-content/uploads/2023/04/BROCHOURE-CONGRESO-DE-EDUCACION-VERSION-FINAL1.pdf), organizador y coordinador para la Argentina en el Congreso Internacional de Educación, 24, 25 y 26 de mayo, Cartagena de Indias, Colombia.
 3.	“Historia y Filosofía en la ‘Edad Media’. Notas y reflexiones para una reivindicación del término”. En Omnis summa philosophiae ad beate vivendum refertur. Homenaje póstumo a Silvana Filippi. C. Muñoz Medina y J. M. F. Mendoza (Eds.), R. A. Peretó Rivas, Mendoza, 2023, pp. 29-44.
 4.	[Humanidades Digitales, ¿por dónde empezar? Un programa y una propuesta de Argentina](https://youtube/PvdbMgBmnLU). Expositor en la “II #SemanaHD”, del 8 al 12 de mayo de 2023, coorganizado por la Asociación Argentina de Humanidades Digitales (AAHD, Argentina), la Red Colombiana de Humanidades Digitales (RCHD, Colombia) y la Red de Humanidades Digitales (RHD, México).
