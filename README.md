@@ -1,4 +1,7 @@
 # Nicolás Lázaro, PhD
+Doctor en Filosofía (UNR).
+Docente. Investigador.
+
 ## Publicaciones et al.
 ### 2023
 1.	“La descripción del hombre en el capítulo CLII del De naturis rerum libri duo de Alexander Neckam. Oriente-Occidente. Segunda Época, 19/20 (en prensa).
