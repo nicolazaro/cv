@@ -1,11 +1,12 @@
 # Nicolás Lázaro, PhD
 Doctor en Filosofía (UNR).
 Docente. Investigador.
+[Google Scholar](https://scholar.google.com.ar/citations?hl=es&user=K-M90VcAAAAJ&view_op=list_works&gmla=AL3_zijdu7G0SY1douGlZdgrNGAj0gTEDLLrH0hLnW1OATw6lzAW81HkPstLVgB24cswOr0i-w6gKQ){:target="_blank" rel="noopener"} | [Academia.edu](https://universidadcatolicadesantafe.academia.edu/nicolazaro){:target="_blank" rel="noopener"}
 
 ## Publicaciones et al.
 ### 2023
 1.	[La descripción del hombre en el capítulo CLII del De naturis rerum libri duo, de Alexander Neckam](https://p3.usal.edu.ar/index.php/oriente-occidente/article/view/6535/8910){:target="_blank" rel="noopener"}. En Oriente Y Occidente, 18(2/2).
-2.	[La investigación Educativa y Social en Latinoamérica”](https://fundacioncolombiacaribe.org/wp-content/uploads/2023/04/BROCHOURE-CONGRESO-DE-EDUCACION-VERSION-FINAL1.pdf){:target="_blank" rel="noopener"}, organizador y coordinador para la Argentina en el Congreso Internacional de Educación, 24, 25 y 26 de mayo, Cartagena de Indias, Colombia.
+2.	[La investigación Educativa y Social en Latinoamérica](https://fundacioncolombiacaribe.org/wp-content/uploads/2023/04/BROCHOURE-CONGRESO-DE-EDUCACION-VERSION-FINAL1.pdf){:target="_blank" rel="noopener"}, organizador y coordinador para la Argentina en el Congreso Internacional de Educación, 24, 25 y 26 de mayo, Cartagena de Indias, Colombia.
 3.	“Historia y Filosofía en la ‘Edad Media’. Notas y reflexiones para una reivindicación del término”. En Omnis summa philosophiae ad beate vivendum refertur. Homenaje póstumo a Silvana Filippi. C. Muñoz Medina y J. M. F. Mendoza (Eds.), R. A. Peretó Rivas, Mendoza, 2023, pp. 29-44.
 4.	[Humanidades Digitales, ¿por dónde empezar? Un programa y una propuesta de Argentina](https://youtu.be/PvdbMgBmnLU?si=-t3dwvZNCfQUPLFO){:target="_blank" rel="noopener"}. Expositor en la “II #SemanaHD”, del 8 al 12 de mayo de 2023, coorganizado por la Asociación Argentina de Humanidades Digitales (AAHD, Argentina), la Red Colombiana de Humanidades Digitales (RCHD, Colombia) y la Red de Humanidades Digitales (RHD, México).
 5.	[Giustizia: fra analogia e univocità. Da Tommaso d’Aquino a Tommaso di Vio](https://riviste.unimi.it/index.php/DoctorVirtualis/article/view/19484/17964){:target="_blank" rel="noopener"}. Doctor Virtualis n. 18: Analogia e medioevo, pp. 305-320, ISSN 2035-7362, DOI: 10.54103/2035-7362/19484.
