@@ -1,4 +1,4 @@
-# Nicolás Lázaro, PhD
+# Nicolás A. Lázaro, PhD
 Doctor en Filosofía (UNR).
 Docente. Investigador.
 [Google Scholar](https://scholar.google.com.ar/citations?hl=es&user=K-M90VcAAAAJ&view_op=list_works&gmla=AL3_zijdu7G0SY1douGlZdgrNGAj0gTEDLLrH0hLnW1OATw6lzAW81HkPstLVgB24cswOr0i-w6gKQ){:target="_blank" rel="noopener"} | [Academia.edu](https://universidadcatolicadesantafe.academia.edu/nicolazaro){:target="_blank" rel="noopener"}
