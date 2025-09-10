@@ -1,7 +1,7 @@
 # Nicolás A. Lázaro, PhD
-Posdoctorando en Ciencias Humanas y Sociales, FFyL, UBA.
-Doctor en Filosofía, FHyR, UNR.
-Docente. Investigador.
+Posdoctorando en Ciencias Humanas y Sociales, FFyL, UBA.<br>
+Doctor en Filosofía, FHyR, UNR.<br>
+Docente. Investigador.<br>
 [Google Scholar](https://scholar.google.com.ar/citations?hl=es&user=K-M90VcAAAAJ&view_op=list_works&gmla=AL3_zijdu7G0SY1douGlZdgrNGAj0gTEDLLrH0hLnW1OATw6lzAW81HkPstLVgB24cswOr0i-w6gKQ){:target="_blank" rel="noopener"} | [Academia.edu](https://universidadcatolicadesantafe.academia.edu/nicolazaro){:target="_blank" rel="noopener"}
 
 ## Publicaciones et al.
