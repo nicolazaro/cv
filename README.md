@@ -5,6 +5,14 @@ Docente. Investigador.<br>
 [Google Scholar](https://scholar.google.com.ar/citations?hl=es&user=K-M90VcAAAAJ&view_op=list_works&gmla=AL3_zijdu7G0SY1douGlZdgrNGAj0gTEDLLrH0hLnW1OATw6lzAW81HkPstLVgB24cswOr0i-w6gKQ){:target="_blank" rel="noopener"} | [Academia.edu](https://universidadcatolicadesantafe.academia.edu/nicolazaro){:target="_blank" rel="noopener"}
 
 ## Publicaciones et al.
+### 2025
+- (55) [Ponencia. La traducción como un lugar para hacer Filosofía. Reflexiones a partir de mi versión de los comentarios del Cardenal Cayetano a la "Suma Teológica"](https://ffyl.uncuyo.edu.ar/upload/5d9c6da1359a544cf70d4b4761511b58.pdf) {:target="_blank" rel="noopener"}. XXI Congreso Nacional de Filosofía, AFRA. FFyL, UNCuyo, Mendoza. 19 de septiembre de 2025 | 8:30 a.m., MT11. Filosofía del Lenguaje, Aula A-8.
+- (54) [Ponencia. Historia de la Medicina en Rosario: creación de una herramienta colaborativa
+en el marco de un proyecto interdisciplinario](https://www.iunir.edu.ar/jornadascientificas/2025/programa.pdf){:target="_blank" rel="noopener"}. XIV Jornadas Científicas Universitarias del IUNIR, 15 y 16 de septiembre (M10). En coatoría con la Dra. D Sylvestre Begnis, PhD y el Dr. L Bordino.
+- (53) [Conferencia. Living de Investigadores: "La pregunta de investigación"](https://www.ucsf.edu.ar/la-ucsf-invita-al-living-de-investigadores-la-pregunta-de-investigacion-con-mirada-extensionista/){:target="_blank" rel="noopener"}. UCSF, Argentina. 12 de septiembre | 17:30 a.m.
+- (52) [Ponencia. Hacia una traducción de los comentarios de Cayetano a la S.Th. Desafíos y metodología de una edición crítica](https://www.youtube.com/live/GyGu8SsySM4?si=AJOcGltD70Vbq6R9&t=21344){:target="_blank" rel="noopener"}. XX Congreso Latinoamericano de Filosofía Medieval "Inteligencia Artificial y Medioevo", RLFM. 13-15 de agosto 2025.
+- (51) [Conferencia. IA y Doctorado: Oportunidades, Tensiones y Horizontes](https://comunicaciones.cecar.edu.co/eventos/conferencia-ia-y-doctorado-oportunidades-tensiones-y-horizontes.html){:target="_blank" rel="noopener"}. Universidad del Caribe, Colombia. 10 de Julio | 10:00 a.m.
+
 ### 2024
 - (50) [La aventura de escribir una tesis. Testimonio de dos sobrevivientes](https://www.academia.edu/125870981/La_Aventura_de_escribir_una_tesis_Testimonio_de_dos_sobrevivientes){:target="_blank" rel="noopener"}. En coaturía con Marcos Díaz Metz. Lectio, Córdoba, ISBN 978-631-006-186-3, 215 págs.
 - (49) [TEI 2024. Texts, languages and communities / Textos, lenguas y comunidades](https://tei2024.tei-c.org/){:target="_blank" rel="noopener"}. Universidad del Salvador, 7-11 October 2024, Bs. As., Argentina. [Local organizer](https://tei2024.tei-c.org/team){:target="_blank" rel="noopener"} **/** Short Papers 2: Minimal TEI - TEI para ediciones mínimas. [Chair](https://tei2024.tei-c.org/pdf/tei2024_sessions.pdf){:target="_blank" rel="noopener"}.
