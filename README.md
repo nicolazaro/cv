@@ -6,7 +6,7 @@ Docente. Investigador.<br>
 
 ## Publicaciones et al.
 ### 2025
-- (56) [Humanidades y Tecnología. Una aproximación al campo de las Humanidades Digitales](){:target="_blank" rel="noopener"}. Workshop. Academia de Humanidades (FFyL, UNCuyo). 18 de septiembre, 21 hs.
+- (56) [Humanidades y Tecnología. Una aproximación al campo de las Humanidades Digitales](https://raw.githubusercontent.com/nicolazaro/cv/refs/heads/main/20250919_UNCuyo_UCSF_HD.jpeg){:target="_blank" rel="noopener"}. Workshop. Academia de Humanidades (FFyL, UNCuyo). 18 de septiembre, 21 hs.
 - (55) [La traducción como un lugar para hacer Filosofía. Reflexiones a partir de mi versión de los comentarios del Cardenal Cayetano a la "Suma Teológica"](https://ffyl.uncuyo.edu.ar/upload/5d9c6da1359a544cf70d4b4761511b58.pdf){:target="_blank" rel="noopener"}. XXI Congreso Nacional de Filosofía, AFRA. FFyL, UNCuyo, Mendoza. Ponencia. 18 de septiembre, 8:30 a.m., MT11. Filosofía del Lenguaje, Aula A-8.
 - (54) [Historia de la Medicina en Rosario: creación de una herramienta colaborativa
 en el marco de un proyecto interdisciplinario](https://www.iunir.edu.ar/jornadascientificas/2025/programa.pdf){:target="_blank" rel="noopener"}. XIV Jornadas Científicas Universitarias del IUNIR, 15 y 16 de septiembre (M10). Ponencia. En coatoría con la Dra. D Sylvestre Begnis, PhD y el Dr. L Bordino.
