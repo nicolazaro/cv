@@ -6,7 +6,7 @@ Docente. Investigador.<br>
 
 ## Publicaciones et al.
 ### 2025
-- (55) [Ponencia. La traducción como un lugar para hacer Filosofía. Reflexiones a partir de mi versión de los comentarios del Cardenal Cayetano a la "Suma Teológica"](https://ffyl.uncuyo.edu.ar/upload/5d9c6da1359a544cf70d4b4761511b58.pdf) {:target="_blank" rel="noopener"}. XXI Congreso Nacional de Filosofía, AFRA. FFyL, UNCuyo, Mendoza. 19 de septiembre, 8:30 a.m., MT11. Filosofía del Lenguaje, Aula A-8.
+- (55) [Ponencia. La traducción como un lugar para hacer Filosofía. Reflexiones a partir de mi versión de los comentarios del Cardenal Cayetano a la "Suma Teológica"](https://ffyl.uncuyo.edu.ar/upload/5d9c6da1359a544cf70d4b4761511b58.pdf){:target="_blank" rel="noopener"}. XXI Congreso Nacional de Filosofía, AFRA. FFyL, UNCuyo, Mendoza. 19 de septiembre, 8:30 a.m., MT11. Filosofía del Lenguaje, Aula A-8.
 - (54) [Ponencia. Historia de la Medicina en Rosario: creación de una herramienta colaborativa
 en el marco de un proyecto interdisciplinario](https://www.iunir.edu.ar/jornadascientificas/2025/programa.pdf){:target="_blank" rel="noopener"}. XIV Jornadas Científicas Universitarias del IUNIR, 15 y 16 de septiembre (M10). En coatoría con la Dra. D Sylvestre Begnis, PhD y el Dr. L Bordino.
 - (53) [Conferencia. Living de Investigadores: "La pregunta de investigación"](https://www.ucsf.edu.ar/la-ucsf-invita-al-living-de-investigadores-la-pregunta-de-investigacion-con-mirada-extensionista/){:target="_blank" rel="noopener"}. UCSF, Argentina. 12 de septiembre, 17:30 a.m.
