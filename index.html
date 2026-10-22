@@ -188,8 +188,7 @@ const CV = {
     { label: "Google Scholar", href: "https://scholar.google.com/citations?user=K-M90VcAAAAJ&hl=es" },
     { label: "Academia.edu", href: "https://universidadcatolicadesantafe.academia.edu/nicolazaro" },
     { label: "ResearchGate", href: "https://www.researchgate.net/profile/Nicolas_Ariel_Lazaro" },
-    { label: "ORCID", href: "https://orcid.org/0000-0002-6066-332X" },
-    { label: "AAHD", href: "https://aahd.net.ar/personas/nicol-s-l-zaro" }
+    { label: "ORCID", href: "https://orcid.org/0000-0002-6066-332X" }
   ],
 
   formacion: [
@@ -317,7 +316,7 @@ const CV = {
     { y: "2020 – actual", t: "Evaluación de trabajos en revistas", d: "Publicaciones de la Asociación Argentina de Humanidades Digitales (ISSN 2718-7470)." },
     { y: "2015 – actual", t: "Evaluación de trabajos en revistas", d: "<em>Cuadernos Filosóficos</em> (ISSN 2683-9024)." },
     { y: "2017 – 2020", t: "Jurado de tesinas, trabajos finales y/o tesis", d: "Facultad de Filosofía, Universidad Católica de Santa Fe." },
-    { y: "2022 – 2025", t: "Editor de la sección <em>Digital Humanities</em>", d: "<em>IPM Today</em>, Sociedad de Filosofía Medieval (SoFiMe). <a href=\"https://ipmtoday.com/digital-humanities\">ipmtoday.com/digital-humanities</a>" }
+    { y: "2022 – 2025", t: "Editor de la sección <em>Digital Humanities</em>", d: "<em>IPM Today</em>, Sociedad de Filosofía Medieval (SoFiMe). <a href=\"https://ipmtoday.com/digital-humanities\" target=\"_blank\" rel=\"noopener noreferrer\">ipmtoday.com/digital-humanities</a>" }
   ],
 
   extension: [
@@ -386,12 +385,12 @@ const TIPOS = { libro:"Libros", articulo:"Artículos", capitulo:"Capítulos de l
 
 const ETIQ = { libro:"Libro", articulo:"Artículo", capitulo:"Capítulo", actas:"Actas", tesis:"Tesis" };
 const esc = s => String(s);
-const lk = arr => arr && arr.length ? `<p class="lk">${arr.map(l => `<a href="${l.href}" rel="noopener">${l.label}</a>`).join("")}</p>` : "";
+const lk = arr => arr && arr.length ? `<p class="lk">${arr.map(l => `<a href="${l.href}" target="_blank" rel="noopener noreferrer">${l.label}</a>`).join("")}</p>` : "";
 const list = arr => `<ol class="list">${arr.map(e => `
   <li class="e"><span class="y">${esc(e.y)}</span>
     <div><p class="t">${e.t}</p>${e.d ? `<p class="d">${e.d}</p>` : ""}${lk(e.links)}</div></li>`).join("")}</ol>`;
 const sec = (id, title, html) => `<section id="${id}" aria-labelledby="h-${id}"><h2 id="h-${id}">${title}</h2>${html}</section>`;
-const links = arr => arr.map(l => `<a href="${l.href}"${l.href.startsWith("http") ? ' rel="noopener"' : ""}>${l.label}</a>`).join("");
+const links = arr => arr.map(l => `<a href="${l.href}" target="_blank" rel="noopener noreferrer">${l.label}</a>`).join("");
 
 function render(){
   const c = CV;
@@ -482,6 +481,10 @@ function theme(){
 }
 
 render(); pubs(); navSpy(); theme();
+document.addEventListener("click", e => {
+  const a = e.target.closest('a[href^="http"]');
+  if (a && !a.target){ a.target = "_blank"; a.rel = "noopener noreferrer"; }
+}, true);
 if (location.hash) document.getElementById(location.hash.slice(1))?.scrollIntoView();
 </script>
 </body>
